@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog - 分类 - NN的博客 | Wvqnllb Blog</title>
+        <link>http://example.org/categories/blog/</link>
+        <description>Blog - 分类 - NN的博客 | Wvqnllb Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>nicnanchim@gmail.com (ninan)</managingEditor>
+            <webMaster>nicnanchim@gmail.com (ninan)</webMaster><lastBuildDate>Thu, 16 Jul 2020 17:55:28 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>NN的博客搭建</title>
+    <link>http://example.org/nn%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+    <pubDate>Thu, 16 Jul 2020 17:55:28 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/nn%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/kuma.jpg" referrerpolicy="no-referrer">
+            </div><meting-js server="netease" type="song" id="444003269" theme="#f1bfd1" autoplay="true"></meting-js>]]></description>
+</item></channel>
+</rss>
