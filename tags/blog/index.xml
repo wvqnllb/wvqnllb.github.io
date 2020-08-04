@@ -12,6 +12,7 @@
     <guid>http://example.org/nn%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/kuma.jpg" referrerpolicy="no-referrer">
-            </div><meting-js server="netease" type="song" id="444003269" theme="#f1bfd1" autoplay="true"></meting-js>]]></description>
+            </div><p>你好你好！</p>
+<meting-js server="netease" type="song" id="444003269" theme="#f1bfd1" autoplay="true"></meting-js>]]></description>
 </item></channel>
 </rss>

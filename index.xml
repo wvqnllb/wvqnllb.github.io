@@ -4,9 +4,45 @@
         <link>http://example.org/</link>
         <description>Learn to create beautiful things!</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>nicnanchim@gmail.com (ninan)</managingEditor>
-            <webMaster>nicnanchim@gmail.com (ninan)</webMaster><lastBuildDate>Thu, 16 Jul 2020 17:55:28 &#43;0800</lastBuildDate>
+            <webMaster>nicnanchim@gmail.com (ninan)</webMaster><lastBuildDate>Tue, 04 Aug 2020 11:00:00 &#43;0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Leetcode UnionFind</title>
+    <link>http://example.org/leetcode-unionfind/</link>
+    <pubDate>Tue, 04 Aug 2020 11:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/leetcode-unionfind/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/leetcode_uf.jpg" referrerpolicy="no-referrer">
+            </div>并查集总结和相关题目]]></description>
+</item><item>
+    <title>ShortestPathTree &amp; MinimumSpanningTree</title>
+    <link>http://example.org/ms_sp/</link>
+    <pubDate>Mon, 03 Aug 2020 15:30:40 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/ms_sp/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/sp_ms.jpg" referrerpolicy="no-referrer">
+            </div><p>Dijkstra/A*/Prim/Kruskal Algorithms</p>]]></description>
+</item><item>
+    <title>Leetcode BinarySearch</title>
+    <link>http://example.org/leetcode-binarysearch/</link>
+    <pubDate>Mon, 03 Aug 2020 15:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/leetcode-binarysearch/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/leetcode_bs.jpg" referrerpolicy="no-referrer">
+            </div><p>二分总结和相关题目。</p>]]></description>
+</item><item>
+    <title>Java Reflection</title>
+    <link>http://example.org/javareflection/</link>
+    <pubDate>Mon, 27 Jul 2020 21:10:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/javareflection/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/java_reflection.jpg" referrerpolicy="no-referrer">
+            </div><p>学习了基本了Java反射特性。</p>]]></description>
+</item><item>
     <title>NN的博客搭建</title>
     <link>http://example.org/nn%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
     <pubDate>Thu, 16 Jul 2020 17:55:28 &#43;0800</pubDate>
@@ -14,7 +50,8 @@
     <guid>http://example.org/nn%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/kuma.jpg" referrerpolicy="no-referrer">
-            </div><meting-js server="netease" type="song" id="444003269" theme="#f1bfd1" autoplay="true"></meting-js>]]></description>
+            </div><p>你好你好！</p>
+<meting-js server="netease" type="song" id="444003269" theme="#f1bfd1" autoplay="true"></meting-js>]]></description>
 </item><item>
     <title>Markdown 基本语法</title>
     <link>http://example.org/markdown%E8%AF%AD%E6%B3%95/</link>
@@ -22,7 +59,7 @@
     <author>作者</author>
     <guid>http://example.org/markdown%E8%AF%AD%E6%B3%95/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/images/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>这篇文章提供了可以在<del>Hugo</del>的文章中使用的基本 Markdown 语法示例.</p>]]></description>
+                <img src="/images/markdown_syntax.jpg" referrerpolicy="no-referrer">
+            </div><p>Markdown syntax &amp; shortcuts</p>]]></description>
 </item></channel>
 </rss>

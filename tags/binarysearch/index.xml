@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BinarySearch - 标签 - NN的博客 | Wvqnllb Blog</title>
+        <link>http://example.org/tags/binarysearch/</link>
+        <description>BinarySearch - 标签 - NN的博客 | Wvqnllb Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>nicnanchim@gmail.com (ninan)</managingEditor>
+            <webMaster>nicnanchim@gmail.com (ninan)</webMaster><lastBuildDate>Mon, 03 Aug 2020 15:00:00 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/binarysearch/" rel="self" type="application/rss+xml" /><item>
+    <title>Leetcode BinarySearch</title>
+    <link>http://example.org/leetcode-binarysearch/</link>
+    <pubDate>Mon, 03 Aug 2020 15:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/leetcode-binarysearch/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/leetcode_bs.jpg" referrerpolicy="no-referrer">
+            </div><p>二分总结和相关题目。</p>]]></description>
+</item></channel>
+</rss>
