@@ -14,15 +14,6 @@
                 <img src="/images/leetcode_uf.jpg" referrerpolicy="no-referrer">
             </div>并查集总结和相关题目]]></description>
 </item><item>
-    <title>ShortestPathTree &amp; MinimumSpanningTree</title>
-    <link>http://example.org/ms_sp/</link>
-    <pubDate>Mon, 03 Aug 2020 15:30:40 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>http://example.org/ms_sp/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/sp_ms.jpg" referrerpolicy="no-referrer">
-            </div><p>Dijkstra/A*/Prim/Kruskal Algorithms</p>]]></description>
-</item><item>
     <title>Leetcode BinarySearch</title>
     <link>http://example.org/leetcode-binarysearch/</link>
     <pubDate>Mon, 03 Aug 2020 15:00:00 &#43;0800</pubDate>

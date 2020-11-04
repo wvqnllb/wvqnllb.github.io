@@ -4,7 +4,16 @@
         <link>http://example.org/posts/</link>
         <description>所有文章 | NN的博客 | Wvqnllb Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>nicnanchim@gmail.com (ninan)</managingEditor>
-            <webMaster>nicnanchim@gmail.com (ninan)</webMaster><lastBuildDate>Tue, 04 Aug 2020 11:00:00 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>nicnanchim@gmail.com (ninan)</webMaster><lastBuildDate>Fri, 16 Oct 2020 17:55:28 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Java多线程</title>
+    <link>http://example.org/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</link>
+    <pubDate>Fri, 16 Oct 2020 17:55:28 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/Java_Threads.jpg" referrerpolicy="no-referrer">
+            </div>Java多线程基础 线程 进程 多线程 进程指的是占用一定内存的程序 资源分配的的单位 线程是进程中的一个执行单元 负责当前进程中的程序的执行 java的多]]></description>
+</item><item>
     <title>Leetcode UnionFind</title>
     <link>http://example.org/leetcode-unionfind/</link>
     <pubDate>Tue, 04 Aug 2020 11:00:00 &#43;0800</pubDate>
@@ -13,15 +22,6 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/leetcode_uf.jpg" referrerpolicy="no-referrer">
             </div>并查集总结和相关题目]]></description>
-</item><item>
-    <title>ShortestPathTree &amp; MinimumSpanningTree</title>
-    <link>http://example.org/ms_sp/</link>
-    <pubDate>Mon, 03 Aug 2020 15:30:40 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>http://example.org/ms_sp/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/sp_ms.jpg" referrerpolicy="no-referrer">
-            </div><p>Dijkstra/A*/Prim/Kruskal Algorithms</p>]]></description>
 </item><item>
     <title>Leetcode BinarySearch</title>
     <link>http://example.org/leetcode-binarysearch/</link>

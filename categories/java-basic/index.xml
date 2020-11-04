@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Java Basic - 分类 - NN的博客 | Wvqnllb Blog</title>
+        <link>http://example.org/categories/java-basic/</link>
+        <description>Java Basic - 分类 - NN的博客 | Wvqnllb Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>nicnanchim@gmail.com (ninan)</managingEditor>
+            <webMaster>nicnanchim@gmail.com (ninan)</webMaster><lastBuildDate>Fri, 16 Oct 2020 17:55:28 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/java-basic/" rel="self" type="application/rss+xml" /><item>
+    <title>Java多线程</title>
+    <link>http://example.org/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</link>
+    <pubDate>Fri, 16 Oct 2020 17:55:28 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/Java_Threads.jpg" referrerpolicy="no-referrer">
+            </div>Java多线程基础 线程 进程 多线程 进程指的是占用一定内存的程序 资源分配的的单位 线程是进程中的一个执行单元 负责当前进程中的程序的执行 java的多]]></description>
+</item></channel>
+</rss>

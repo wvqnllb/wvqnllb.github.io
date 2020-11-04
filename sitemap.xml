@@ -2,25 +2,24 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/leetcode-unionfind/</loc><lastmod>2020-08-04T11:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/ms_sp/</loc><lastmod>2020-08-03T15:30:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/leetcode-binarysearch/</loc><lastmod>2020-08-03T15:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/javareflection/</loc><lastmod>2020-07-27T21:10:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://example.org/nn%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc><lastmod>2029-07-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
+            <loc>http://example.org/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc><lastmod>2029-10-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
+            <loc>http://example.org/leetcode-unionfind/</loc><lastmod>2020-08-04T11:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/leetcode-binarysearch/</loc><lastmod>2020-08-03T15:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/javareflection/</loc><lastmod>2020-07-27T21:10:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/nn%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc><lastmod>2029-07-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>46.3</priority></url><url>
             <loc>http://example.org/markdown%E8%AF%AD%E6%B3%95/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/categories/</loc><lastmod>2029-07-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
-            <loc>http://example.org/categories/leetcode/</loc><lastmod>2020-08-04T11:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/</loc><lastmod>2029-07-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2029-07-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2029-07-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
-            <loc>http://example.org/tags/unionfind/</loc><lastmod>2020-08-04T11:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/tags/adjacentlist/</loc><lastmod>2020-08-03T15:30:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/tags/dfs/</loc><lastmod>2020-08-03T15:30:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/tags/priorityqueue/</loc><lastmod>2020-08-03T15:30:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/tags/binarysearch/</loc><lastmod>2020-08-03T15:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://example.org/tags/java/</loc><lastmod>2020-07-27T21:10:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://example.org/categories/java/</loc><lastmod>2020-07-27T21:10:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://example.org/tags/blog/</loc><lastmod>2029-07-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
-            <loc>http://example.org/categories/blog/</loc><lastmod>2029-07-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
+            <loc>http://example.org/categories/</loc><lastmod>2029-10-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
+            <loc>http://example.org/tags/java-basic/</loc><lastmod>2029-10-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
+            <loc>http://example.org/categories/java-basic/</loc><lastmod>2029-10-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
+            <loc>http://example.org/</loc><lastmod>2029-10-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2029-10-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
+            <loc>http://example.org/tags/</loc><lastmod>2029-10-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>47.6</priority></url><url>
+            <loc>http://example.org/categories/leetcode/</loc><lastmod>2020-08-04T11:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/tags/unionfind/</loc><lastmod>2020-08-04T11:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/tags/binarysearch/</loc><lastmod>2020-08-03T15:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/tags/java/</loc><lastmod>2020-07-27T21:10:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/categories/java/</loc><lastmod>2020-07-27T21:10:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://example.org/tags/blog/</loc><lastmod>2029-07-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>46.3</priority></url><url>
+            <loc>http://example.org/categories/blog/</loc><lastmod>2029-07-16T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>46.3</priority></url><url>
             <loc>http://example.org/tags/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://example.org/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
